@@ -55,6 +55,7 @@ Aberto a **vagas (CLT/PJ)**, **freelance sob medida** e **implantação de siste
 | **Tsolutions** | CRM de chamados com dashboard, ACL e anexos | [Ver online](https://ts.titaniumtelecom.com.br) | [Repo](https://github.com/douglasmouradev/Tsolutions) |
 | **Controll IT Help Desk** | Help Desk com filas, perfis e ViaCEP | [Ver online](https://cea.controllit.com.br) | [Repo](https://github.com/douglasmouradev/controll-v2) |
 | **Site TDesk Solutions** | Site institucional responsivo e SEO | [Ver online](https://tdesksolutions.com.br) | [Repo](https://github.com/douglasmouradev/site-tdesk) |
+| **GranaFlow** | Finanças pessoais com gráficos e orçamento | [Ver online](https://granaflow.tdesksolutions.com.br) | [Repo](https://github.com/douglasmouradev/Grana-Flow) |
 
 ### SaaS e produtos prontos
 
@@ -89,6 +90,14 @@ Aberto a **vagas (CLT/PJ)**, **freelance sob medida** e **implantação de siste
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=douglasmouradev&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasmouradev&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true" alt="Top Languages"/>
 </p>
+
+---
+
+## Repositórios fixados (recomendado)
+
+Fixe nesta ordem no perfil: `portifolio` · `cadeiralivre` · `clinix` · `Tsolutions` · `controll-v2` · `lanchonete-android-app`
+
+(Configuração manual: perfil → **Customize your pins** — a API do GitHub não permite alterar pins automaticamente.)
 
 ---
 
